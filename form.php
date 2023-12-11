@@ -34,7 +34,7 @@
 <!-- Button -->
 <div class="form-group">
   <div class="col-md-4">
-    <button id="singlebutton" name="singlebutton" class="btn btn-primary">Button</button>
+    <button id="singlebutton" name="singlebutton" class="btn btn-primary">Login</button>
   </div>
 </div>
 <br><hr>
